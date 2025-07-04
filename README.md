@@ -32,7 +32,6 @@ The analysis answered these business questions:
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** (for data cleaning, pivot tables)
-- **Python (Pandas, Matplotlib/Seaborn)** (for visualizations and deeper analysis)
 - **GitHub** (for version control and collaboration)
 
 ## 📊 Visual Insight
@@ -41,6 +40,15 @@ Visualizations include:
 - Pie charts for rating distribution
 - Scatter plots for discount vs rating relationship
 - Revenue comparisons across product categories
+
+
+
+
+
+
+
+
+  
 
 ## 📈 Conclusion
 - **Cables & Accessories** had the highest number of products listed and reviews.
