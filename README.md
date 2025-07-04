@@ -40,7 +40,7 @@ Visualizations include:
 - Pie charts for rating distribution
 - Scatter plots for discount vs rating relationship
 - Revenue comparisons across product categories
-
+<img width="796" height="234" alt="Image" src="https://github.com/user-attachments/assets/20398904-be8a-4b63-a63f-466ce6ed1b33" />
 amazon dashboard.png
 
 
