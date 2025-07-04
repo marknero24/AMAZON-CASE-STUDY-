@@ -1,8 +1,8 @@
 # AMAZON-CASE-STUDY-
 E-commerce Analytics Solution 
-# 📊 Amazon Product & Review Data Analysis Case Study
+#  Amazon Product & Review Data Analysis Case Study
 
-## 📌 Overview
+##  Overview
 As a Junior Data Analyst at **RetailTech Insights**, I conducted an in-depth analysis of product listings and customer reviews scraped from Amazon. The aim was to extract actionable insights to guide product improvements, marketing strategies, and customer engagement efforts.
 
 The dataset contains details about:
@@ -13,7 +13,7 @@ The dataset contains details about:
 **Total Records:** 1,465 rows  
 **Total Fields:** 16 columns  
 
-## 📊 Key Metrics
+## Key Metrics
 The analysis answered these business questions:
 1. Average discount percentage by product category.
 2. Number of products listed per category.
@@ -30,11 +30,11 @@ The analysis answered these business questions:
 13. Categories with the highest discounts.
 14. Top 5 products combining highest ratings and reviews.
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Microsoft Excel** (for data cleaning, pivot tables)
 - **GitHub** (for version control and collaboration)
 
-## 📊 Visual Insight
+##  Visual Insight
 Visualizations include:
 - Bar charts for average discounts by category
 - Pie charts for rating distribution
@@ -50,17 +50,17 @@ Visualizations include:
 
   
 
-## 📈 Conclusion
+##  Conclusion
 - **Cables & Accessories** had the highest number of products listed and reviews.
 - Products with a discount of **50% or more** made up a significant portion of the listings.
 - The highest-rated products often also had higher numbers of reviews and were priced competitively.
 - A positive relationship was observed between product discount levels and customer ratings.
 
-## 💡 Recommendations
+##  Recommendations
 - Focus marketing efforts on **Cables & Accessories**.
 - Promote products offering **50%+ discounts**.
 - Monitor pricing strategies in the ₹200–₹500 range.
 - Encourage customer reviews for products with few ratings.
 - Investigate categories with lower average ratings for improvements.
 
-## 📂 Repository Structure
+
