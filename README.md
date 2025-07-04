@@ -41,7 +41,7 @@ Visualizations include:
 - Scatter plots for discount vs rating relationship
 - Revenue comparisons across product categories
 <img width="796" height="234" alt="Image" src="https://github.com/user-attachments/assets/20398904-be8a-4b63-a63f-466ce6ed1b33" />
-amazon dashboard.png
+  <img width="865" height="365" alt="Image" src="https://github.com/user-attachments/assets/5418f325-83b1-4f27-a78e-322541e1dee2" />
 
 
 
